@@ -1,6 +1,10 @@
 # Sweets Vault
 A child shows their homework to the Sweets Vault. The Agent scans it, critiques the solution, 
-and decides the effort is worth a prize. It unlocks the brake and dispenses sweets.
+and decides the effort is worth a prize. It unlocks a drawer with sweets.
+
+## Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TMStQw0Fthk?si=m1UdbkFPmfOUuFWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Folder structure
 
