@@ -22,3 +22,11 @@ The diagram below presents the architecture of the Sweets Vault.
 
 Start by deploying [led-matrix-api](led-matrix-api/README.md) on a Raspberry Pi. 
 Then deploy [agent](agent/README.md) on a separate machine in the same network.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
