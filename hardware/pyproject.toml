@@ -1,0 +1,11 @@
+[project]
+name = "hardware"
+version = "0.1.0"
+description = "HW part for the AI Hackathon"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "adafruit-blinka>=8.68.1",
+    "adafruit-blinka-displayio>=2.3.1",
+    "pyftdi>=0.57.1",
+]
