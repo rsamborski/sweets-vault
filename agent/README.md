@@ -41,6 +41,7 @@ make install && make playground
 
 For testing with non-live API Gemini model you can run:
 ```bash
+source .env
 uvx --from google-adk adk web --reload
 ```
 
